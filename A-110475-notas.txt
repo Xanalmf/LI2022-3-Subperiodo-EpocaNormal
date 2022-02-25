@@ -1,3 +1,6 @@
+NOME:Alexandra Figueiredo Marcelino
+NMEC:110475
+
     1  pwd
     2  ls
     3  cd OneDrive/
@@ -46,3 +49,4 @@
    46  git commit -m"5ªtarefa cumprida"
    47  git push origin main
    48  history > meusComandos.txt
+"=============================================================================================================="
