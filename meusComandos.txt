@@ -1,0 +1,48 @@
+    1  pwd
+    2  ls
+    3  cd OneDrive/
+    4  dir
+    5  cd ..
+    6  ls
+    7  git clone https://github.com/Xanalmf/LI2022-3-Subperiodo-EpocaNormal.git
+    8  ls
+    9  cd My\ Documents/
+   10  git clone https://github.com/Xanalmf/LI2022-3-Subperiodo-EpocaNormal.git
+   11  ecd LI2022-3-Subperiodo-EpocaNormal/
+   12  cd LI2022-3-Subperiodo-EpocaNormal/
+   13  dir
+   14  mkdir A110475
+   15  cd A110475/
+   16  vi README.md
+   17  ls
+   18  pwd
+   19  cd ..
+   20  git add .
+   21  git commit -m "2ª tarefa concluida"
+   22  git push origin main
+   23  git push origin main
+   24  vi index.html
+   25  ls
+   26  git add .
+   27  git commit -m"3ªtarefa concluida"
+   28  git push origin main
+   29  vi index.html
+   30  git add .
+   31  git commit -m"4ºtarefa concluida"
+   32  git push origin main
+   33  cp index.html
+   34  cp: index.html
+   35  mv index.html disciplina.html
+   36  ls
+   37  vi disciplina.html
+   38  mv disciplina.html index.html
+   39  git status
+   40  ls
+   41  mk index.html
+   42  cp index.html
+   43  cp index.html disciplina.html
+   44  vi disciplina.html
+   45  git add .
+   46  git commit -m"5ªtarefa cumprida"
+   47  git push origin main
+   48  history > meusComandos.txt
